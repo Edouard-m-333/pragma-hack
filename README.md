@@ -6,21 +6,17 @@ This repository serves as a template for building with Pragma
 
 ## Getting Started 🚀
 
-You can find all the addresses to interact with, in the pragma [documentation](https://docs.pragmaoracle.com/docs/starknet/Cairo%201/data-feeds/consuming-data).
+You can find all the addresses to interact with, in the pragma [documentation](https://docs.pragmaoracle.com/docs/GettingStarted/Consuming%20Data%20Feed).
 
 ## Supported Assets 📈
 
-You can find the list of supported assets [here](https://docs.pragmaoracle.com/docs/starknet/Cairo%201/data-feeds/supported-assets) or on the [pragma homepage](https://pragmaoracle.com/).
+You can find the list of supported assets [here](https://docs.pragmaoracle.com/docs/Resources/Cairo%201/data-feeds/supported-assets) or on the [pragma homepage](https://pragmaoracle.com/).
 
 ## Cairo 0 & Cairo 1 💚
-
-This template includes code for interacting both with pragma cairo 0 contracts and cairo 1 contracts.
-You can find more information about the migration in our [documentation](https://docs.pragmaoracle.com/docs/starknet/migration).
-
 You can find related docs/examples :
 
-- [Cairo 1](https://docs.pragmaoracle.com/docs/starknet/Cairo%201/data-feeds/consuming-data)
-- [Cairo 0](https://docs.pragmaoracle.com/docs/starknet/Cairo%200/data-feeds/consuming-data)
+- [Cairo 1](https://docs.pragmaoracle.com/docs/Resources/Cairo%201/data-feeds/consuming-data)
+- [Cairo 0](https://docs.pragmaoracle.com/docs/Resources/Cairo%200/data-feeds/consuming-data)
 
 You can find the full cairo 1 repo [here](https://github.com/Astraly-Labs/pragma-oracle).
 
